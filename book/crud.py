@@ -22,5 +22,5 @@ def test2():
 def test3():
     return "test3"
 def test3():
-    print "test3"
+    return "test3"
 
